@@ -2,8 +2,8 @@
 - 👀 I’m interested in Exploratory Data Analyst
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Analyst and Data Science
-- 📫 How to reach me 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- 📫 How to reach me  
+[LinkedIn]: www.linkedin.com/in/desypermt/
 
 <!---
 desypermata/desypermata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
