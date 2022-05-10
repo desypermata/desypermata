@@ -14,7 +14,7 @@ library("writexl")
 
 
 # VARIAN DELTA
-delta <- read_excel("E:\\BACKUP C NEW\\Documents\\JSC\\data\\delta.xlsx")
+delta <- read_excel("E:\\...\\delta.xlsx")
 head(delta)
 
 # 1. memisahkan parameter
@@ -195,8 +195,8 @@ d1 <-dist(x1)
 dbi_pam1 <-print(index.DB(x1, pm$cluster, d, centrotypes = 'centroids'))
 
 #menyimpan output
-write_xlsx(final, "E:\\BACKUP C NEW\\Documents\\JSC\\data\\Delta Clust.xlsx")
-write_xlsx(final1, "E:\\BACKUP C NEW\\Documents\\JSC\\data\\Omicron Clust.xlsx")
-write_xlsx(char, "E:\\BACKUP C NEW\\Documents\\JSC\\data\\Delta Char.xlsx")
-write_xlsx(char1, "E:\\BACKUP C NEW\\Documents\\JSC\\data\\Omicron Char.xlsx")
+write_xlsx(final, "E:\\...\\Delta Clust.xlsx")
+write_xlsx(final1, "E:\\...\\Omicron Clust.xlsx")
+write_xlsx(char, "E:\\...\\Delta Char.xlsx")
+write_xlsx(char1, "E:\\...\\Omicron Char.xlsx")
 
