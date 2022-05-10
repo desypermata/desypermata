@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Data Analyst and Data Science
 - 📫 How to reach me  
 - [LinkedIn](www.linkedin.com/in/desypermt/)
-- [Journal](http://bit.ly/Journal-Desy/)
+- [Research Paper 1](http://bit.ly/Journal-Desy/)
+- [Research Paper 2](https://www.researchgate.net/publication/360080021_Implementation_K-Means_Clustering_Based_on_Delta_Variant_and_Omicron_Variant_by_Sub-Districts_in_Jakarta/)
 
 <!---
 desypermata/desypermata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
